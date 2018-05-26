@@ -15,8 +15,7 @@
 输入URL网址，点击按钮，将发起浏览网页的行为:
 
 运行截图：
-
-![1]https://github.com/NEWSOUL046/Intent/blob/master/picture/1.png)
+![1](https://github.com/NEWSOUL046/Intent/blob/master/picture/1.png)
 
 ### 新建一个工程使用WebView来加载URL
 
