@@ -16,11 +16,11 @@
 
 运行截图：
 
-![1](D:\AndroidStudioProjects\androidTest-master\Intent\picture\1.png)
+![1]https://github.com/NEWSOUL046/Intent/blob/master/picture/1.png)
 
 ### 新建一个工程使用WebView来加载URL
 
 跳转之后，出现选择项，选择自定义的MyBrowser进行浏览
 
-![2](D:\AndroidStudioProjects\androidTest-master\Intent\picture\2.png)
+![2](https://github.com/NEWSOUL046/Intent/blob/master/picture/2.png)
 
